@@ -1,16 +1,16 @@
-## Hi there 👋
+## Personal Introduction
 
-<!--
-**tam-fr/tam-fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Tam 👋
 
-Here are some ideas to get you started:
+I'm a web developer and technology enthusiast based in Brussels, passionate about creating accessible and user-friendly digital experiences. With a background in PC and network technology, I'm currently deepening my skills in frontend development while exploring cloud technologies and modern web frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+🔭 I'm currently mastering **JavaScript**, **CSS Flexbox**, and **GitHub workflows**
+🌱 I'm learning advanced **CSS techniques**
+🎧 I'm listening to **Metallica**, **Green Day**, and **Vietnamese bolero** music
+🎮 I'm playing **Elder Scrolls Online** and exploring RPG game design
+🍜 I'm cooking **Vietnamese and Chinese cuisine**
+🧘 I practice **Buddhism** and value mindful presence in daily life
+💬 Ask me about **web development**, **horror films**, or **psychoanalysis**
+📫 How to reach me: tam-huynh@outlook.fr

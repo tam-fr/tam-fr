@@ -1,5 +1,5 @@
 ## Personal Introduction
-
+![funny pic](https://media.giphy.com/media/3o6Zt8MngbJnd1HhDi/giphy.gif)
 # Hi there, I'm Tam 👋
 
 I'm a web developer and technology enthusiast based in Brussels, passionate about creating accessible and user-friendly digital experiences. With a background in PC and network technology, I'm currently deepening my skills in frontend development while exploring cloud technologies and modern web frameworks.

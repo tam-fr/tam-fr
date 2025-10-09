@@ -2,11 +2,11 @@
 ![funny pic](https://media.giphy.com/media/3o6Zt8MngbJnd1HhDi/giphy.gif)
 # Hi there, I'm Tam 👋
 
-I'm a web developer and technology enthusiast based in Brussels, passionate about creating accessible and user-friendly digital experiences. With a background in PC and network technology, I'm currently deepening my skills in frontend development while exploring cloud technologies and modern web frameworks.
+I'm a web developer and technology enthusiast based in Brussels, passionate about creating accessible and user-friendly digital experiences. With a background in PC and network technology, I'm currently deepening my skills in frontend development while exploring Data Science and modern web frameworks.
 
 ## 🚀 About Me
 
-🔭 I'm currently mastering **JavaScript**, **CSS Flexbox**, and **GitHub workflows**
+🔭 I'm currently mastering **JavaScript**, **SQL**, and **GitHub workflows**
 🌱 I'm learning advanced **CSS techniques**
 🎧 I'm listening to **Metallica**, **Green Day**, and **Vietnamese bolero** music
 🎮 I'm playing **Elder Scrolls Online** and exploring RPG game design

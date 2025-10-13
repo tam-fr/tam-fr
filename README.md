@@ -2,7 +2,7 @@
 ![funny pic](https://media.giphy.com/media/3o6Zt8MngbJnd1HhDi/giphy.gif)
 # Hi there, I'm Tam 👋
 
-Explore my projects to discover more about my contributions in SQL-based DevOps and Data Science, or feel free to reach out to collaborate.
+Explore my projects to discover more about my contributions in SQL-based DevOps. Express my PC and network technician background as relevant to data science.
 
 ## 🚀 About Me
 

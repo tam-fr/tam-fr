@@ -2,12 +2,10 @@
 ![funny pic](https://media.giphy.com/media/3o6Zt8MngbJnd1HhDi/giphy.gif)
 # Hi there, I'm Tam 👋
 
-Web developer passionate about development and web design, with strong skills in JavaScript, CSS, and SQL. I enjoy creating elegant and functional user interfaces while handling data to add value to projects.
-I am committed to the continuous improvement of my projects by combining creativity and technical rigor, with particular attention to user experience and solution efficiency.
-
+DevOps wizard by day, SQL enthusiast by night! I automate all the things and make servers sing in perfect harmony. When I’m not orchestrating cloud infrastructure or building CI/CD pipelines, you’ll find me diving deep into the mysterious world of SQL queries—because who doesn’t love a good join statement?
 ## 🚀 About Me
 
-🔭 I'm currently mastering **JavaScript**, **SQL**, **CSS** and **GitHub workflows**
+🔭 I'm currently mastering **JavaScript**, **SQL** and **GitHub workflows**
 🎧 I'm listening to **Metallica**, **Green Day**, and **Vietnamese bolero** music
 🧘 I practice **Buddhism** and value mindful presence in daily life
 💬 Ask me about **horror films**, or **psychoanalysis**

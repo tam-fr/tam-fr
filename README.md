@@ -8,4 +8,4 @@ DevOps wizard by day, SQL enthusiast by night! I automate all the things and mak
 🔭 I'm currently mastering **JavaScript**, **SQL** and **GitHub workflows**
 🎧 I'm listening to **Metallica**, **Green Day**, and **Vietnamese bolero** music
 🧘 I practice **Buddhism** and value mindful presence in daily life
-💬 Ask me about ~~**volunteer**~~ ~~**work﻿**~~, or **psychoanalysis**
+💬 Ask me about ~~**volunteer work﻿**~~, or **psychoanalysis**

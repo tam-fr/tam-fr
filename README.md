@@ -7,6 +7,5 @@ I'm a web developer and technology enthusiast based in Brussels, passionate abou
 ## 🚀 About Me
 
 🔭 I'm currently mastering **CSS**, **JavaScript**, **SQL** and **GitHub workflows**
-🎧 I'm listening to **Metallica** and **Vietnamese bolero** music
 🧘 I practice **Buddhism** and value mindful presence in daily life
-💬 Ask me about **web development** in French, Dutch, English or Vietnamese
+💬 Ask me about **IT support** in French, Dutch, English or Vietnamese

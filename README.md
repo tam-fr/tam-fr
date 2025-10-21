@@ -9,4 +9,4 @@ I'm a web developer and technology enthusiast based in Brussels, passionate abou
 🔭 I'm currently mastering **CSS**, **JavaScript**, **SQL** and **GitHub workflows**
 🎧 I'm listening to **Metallica** and **Vietnamese bolero** music
 🧘 I practice **Buddhism** and value mindful presence in daily life
-💬 Ask me about ~~**my volunteer work﻿**~~, or **psychoanalysis**
+💬 Ask me about **web development** in French, Dutch, English or Vietnamese

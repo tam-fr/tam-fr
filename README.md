@@ -8,4 +8,4 @@ I'm a web developer and technology enthusiast based in Brussels, passionate abou
 
 🔭 I'm currently mastering **CSS**, **JavaScript**, **SQL** and **GitHub workflows**
 🧘 I practice **Buddhism** and value mindful presence in daily life
-💬 Ask me about **Aikido** in French, Dutch, English or Vietnamese
+💬 Ask me about **IT support** in French, Dutch, English or Vietnamese
